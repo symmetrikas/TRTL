@@ -4,9 +4,15 @@
     "author": "mmyscarriage",
     "creators": ["Symm"],
     "verifier": "Symm.",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "verification": "https://youtu.be/l37XZ8uOSWI",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "puffiballGD",
+            "link": "",
+            "percent": 100,
+            "hz": 180
+        }
     ]
 }
