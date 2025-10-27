@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "JameSharpener",
+            "link": "https://youtu.be/-JwC9LPk_2I",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
